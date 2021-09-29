@@ -1,4 +1,4 @@
-# [OverTheWire](overthewire.org) - ctfs
+# [OverTheWire](https://overthewire.org/wargames/bandit/) - ctfs
 
 bandit0: bandit0  
 bandit1: boJ9jbbUNNfktd78OOpsqOltutMc3MY1  
